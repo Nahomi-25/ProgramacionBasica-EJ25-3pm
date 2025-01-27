@@ -51,3 +51,5 @@ humana:
 #Ejercicio 9
 ¿Cómo puedes corregir un “Error de sintaxis”?
 Revisando la "retroalimentación" que da el sistema y principalmente comprobando si se siguieron las reglas del programa (símbolos y palabras reservadas)
+
+Nahomi-25
