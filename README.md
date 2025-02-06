@@ -4,4 +4,4 @@
 - Matricula: 2119592
 - Nombre: Nahomi Loera
 
-(05/02/2025)
+(05-02-2025)[date:"mdy"]
