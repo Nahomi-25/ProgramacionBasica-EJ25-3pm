@@ -28,3 +28,4 @@
     - [Problema 18](./100problemas/Problema18.py)
     - [Problema 19](./100problemas/Problema19.py)
     - [Problema 20](./100problemas/Problema20.py)
+    - [Problema 48](./100problemas/Problema48.py)
